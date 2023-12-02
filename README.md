@@ -1,3 +1,0 @@
-## Vitepress
-
-Cositas para publicar
