@@ -23,7 +23,7 @@ export default {
     },
     outline: [2, 5],
     editLink: {
-      pattern: "https://github.com/doofysp/GuiasDP/edit/main/docs/:path",
+      pattern: "https://github.com/nach131/vitepress/edit/main/docs/:path",
       text: "Editar esta página en GitHub",
     },
     search: {
@@ -72,7 +72,7 @@ function metadata() {
       {
         property: "og:image",
         content:
-          "https://raw.githubusercontent.com/doofysP/GuiasDP/main/docs/public/DP.png",
+          "https://raw.githubusercontent.com/nach131/vitepress/main/docs/public/DP.png",
       },
     ],
     ["meta", { name: "twitter:card", content: "summary" }],
@@ -123,7 +123,7 @@ function nav() {
     },
     {
       text: "Historial de cambios",
-      link: "https://github.com/doofysP/GuiasDP/blob/main/CHANGELOG.md",
+      link: "https://github.com/nach131/vitepress/blob/main/CHANGELOG.md",
     },
   ];
 }
